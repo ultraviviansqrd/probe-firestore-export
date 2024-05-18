@@ -18,8 +18,8 @@ import java.util.Set;
 public class JSONFileToCSVConverter {
 
     public static void main(String[] args) {
-        String jsonFilePath = "probeenvtest-backup.json"; // Path to the JSON file
-        String csvFilePath = "probeenvtest-backup.csv"; // Path to the CSV file
+        String jsonFilePath = "input.json"; // Path to the JSON file
+        String csvFilePath = "output.csv"; // Path to the CSV file
 
         try {
 
