@@ -14,8 +14,7 @@ npx -p node-firestore-import-export firestore-export -a \<api key file\> -b \<JS
 
 ## Running CSV file geneation util (this project)
 
-- Edit file names/paths if required in `JSONFileToCSVConverter`
-- Run main()
+- Run main(): `java JSONFileToCSVConverter <JSON input file> <CSV output file>`
 
 ## References
 
