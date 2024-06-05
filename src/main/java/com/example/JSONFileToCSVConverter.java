@@ -24,8 +24,8 @@ public class JSONFileToCSVConverter {
             return;
         }
         
-        String jsonFilePath = arg[0]; // Path to the JSON file
-        String csvFilePath = arg[1]; // Path to the CSV file
+        String jsonFilePath = args[0]; // Path to the JSON file
+        String csvFilePath = args[1]; // Path to the CSV file
 
         try {
 
